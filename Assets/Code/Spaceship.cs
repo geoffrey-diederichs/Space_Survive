@@ -27,8 +27,6 @@ public class Spaceship : MonoBehaviour
             rigidbody.angularVelocity = 0.0f;
 
             this.gameObject.SetActive(false);
-
-            UnityEditor.EditorApplication.isPlaying = false;
         }
     }
 }

@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class Asteroid : MonoBehaviour
 {
-    private Rigidbody2D rigidbody;
+    private new Rigidbody2D rigidbody;
     private int speedMin = 3;
     private int speedMax = 8;
     private int lifetime = 8;

@@ -4,7 +4,7 @@ public class Spaceship : MonoBehaviour
 {
     private float speed = 6.0f;
     private float speedX, speedY;
-    private Rigidbody2D rigidbody;
+    private new Rigidbody2D rigidbody;
 
     private void Awake()
     {
@@ -27,6 +27,8 @@ public class Spaceship : MonoBehaviour
             rigidbody.angularVelocity = 0.0f;
 
             this.gameObject.SetActive(false);
+
+            menucontroler.ChangeScene("MainMenu");
         }
     }
 }

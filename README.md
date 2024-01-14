@@ -17,6 +17,6 @@ Mini jeu en unity.
 
 ## Gameplay
 
-Appuyer sur les flèches directionnelles pour bouger le vaisseau, vous ne pouvez pas sortir de l'écran.  
+Choisissez jouer pour lancer une partie. Appuyer sur les flèches directionnelles pour bouger le vaisseau, vous ne pouvez pas sortir de l'écran.  
 Des astéroïdes apparaissent aléatoirement de toutes directions, à vitesses aléatoires.  
-Si vous touchez une astéroïde vous avez perdu : le vaisseau disparait. 
+Si vous touchez une astéroïde vous avez perdu : le jeu s'arrête. Choisissez rejouer pour coninuer ou quitter pour arrêter le jeu.

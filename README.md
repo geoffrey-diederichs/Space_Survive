@@ -12,7 +12,7 @@ Mini jeu en unity.
 - Clonez le projet
 - Ouvrez Unity Hub
 - Sélectionnez Add > Add project from disk pour ouvrir ce projet
-- Sélectionnez la scene space
+- Sélectionnez la scene Space
 - Vous pouvez utiliser la fonctionnalité play ou build le projet pour le tester
 
 ## Gameplay
